@@ -1,0 +1,48 @@
+.topbg {
+    background: rgba(0, 68, 255, 0.692);
+}
+
+#tip {
+    color: black;
+}
+
+.buttonSize {
+    width:130px;
+    height:130px;
+    margin-left: 1rem;
+    background: white;
+    border-radius: 15%;
+}
+
+.color_transition {
+  border: none;
+  transition: background-color 0.4s;
+}
+
+.disableButton {
+    text-emphasis-color: white;
+
+}
+
+.hovereven:hover {
+    background-color: blue;
+    color: white;
+}
+
+.gamelevelbg {
+    color: white;
+    background: blue;
+}
+
+h1,h5 {
+    color: white;
+}
+
+body {
+    background: black;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+li{
+    width: 150px;
+}
